@@ -46,6 +46,7 @@ A content-based movie recommendation system trained on Netflix movie data using 
 4. Run locally
    python app.py
 
+---
 
 ## 🧠 How It Works
 
@@ -57,8 +58,12 @@ A content-based movie recommendation system trained on Netflix movie data using 
 
 (4) Returns top 10 most similar movies.
 
+---
+
 ## 👨‍💻 Author
 Built by Ananya Ahlawat
+
+---
 
 ## 🧿 License
 MIT License – use it, remix it, just don’t forget to tag the creators 😉
