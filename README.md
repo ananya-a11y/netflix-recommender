@@ -31,33 +31,19 @@ A content-based movie recommendation system trained on Netflix movie data using 
 
 ---
 
-## 📁 File Structure
-
-netflix-recommender/
-├── app.py # Flask app
-├── templates/
-│ ├── home.html
-│ └── recommend.html
-├── static/
-│ ├── style.css
-│ ├── autocomplete.js
-│ └── recommend.js
-├── data1.csv # Cleaned Netflix dataset
-├── vectorizer.pkl # Saved TF-IDF model
-├── requirements.txt
-└── README.md
-
----
 
 ## 🔧 Setup Instructions
 
 1. Clone the repo  
    bash
+
    git clone https://github.com/ananya-a11y/netflix-recommender.git
+
    cd netflix-recommender
-2. Install dependencies
+  
+3. Install dependencies
    pip install -r requirements.txt
-3. Run locally
+4. Run locally
    python app.py
 
 
