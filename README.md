@@ -47,7 +47,7 @@ A content-based movie recommendation system trained on Netflix movie data using 
    python app.py
 
 
-##🧠 How It Works
+## 🧠 How It Works
 
 (1) Combines movie title, cast, genre, and keywords into a single string.
 
@@ -57,8 +57,8 @@ A content-based movie recommendation system trained on Netflix movie data using 
 
 (4) Returns top 10 most similar movies.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Built by Ananya Ahlawat
 
-##🧿 License
+## 🧿 License
 MIT License – use it, remix it, just don’t forget to tag the creators 😉
