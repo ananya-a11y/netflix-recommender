@@ -47,17 +47,18 @@ A content-based movie recommendation system trained on Netflix movie data using 
    python app.py
 
 
-🧠 How It Works
-Combines movie title, cast, genre, and keywords into a single string.
+##🧠 How It Works
 
-Applies TF-IDF vectorization.
+(1) Combines movie title, cast, genre, and keywords into a single string.
 
-Computes similarity scores using cosine similarity.
+(2) Applies TF-IDF vectorization.
 
-Returns top 10 most similar movies.
+(3) Computes similarity scores using cosine similarity.
 
-👨‍💻 Author
+(4) Returns top 10 most similar movies.
+
+##👨‍💻 Author
 Built by Ananya Ahlawat
 
-🧿 License
+##🧿 License
 MIT License – use it, remix it, just don’t forget to tag the creators 😉
